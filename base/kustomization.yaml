@@ -1,2 +1,5 @@
 resources:
 - deployment.yaml
+
+patches:
+- path: replicas-patch.yaml
